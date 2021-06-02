@@ -26,15 +26,7 @@
         color: #333;
     }
     
-    body {
-        background-image: url("paper.gif");
-        background-color: rgb(104, 101, 101);
-    }
-    
-    header {
-        padding: 40px;
-        background-color: rgb(82, 243, 255);
-    }
+   
     
     nav {
         background-color: rgba(54, 63, 62, 0.89);
